@@ -1,0 +1,19 @@
+ContainerizedApps/
+├── .github/
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.md
+│   │   ├── feature_request.md
+│   └── workflows/
+│       └── ci.yml
+├── app/
+│   ├── Dockerfile
+│   ├── app.py
+│   ├── requirements.txt
+│   └── .dockerignore
+├── tests/
+│   ├── __init__.py
+│   └── test_app.py
+├── .gitignore
+├── LICENSE
+├── README.md
+└── setup.py
